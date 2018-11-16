@@ -48,6 +48,7 @@
     }
     var keepScore = Score();
 
+
     NextQuestion();
      function NextQuestion() {
 
